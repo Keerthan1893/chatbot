@@ -1,3 +1,2 @@
 .venv/lib
-venv/lib
-frontend/
+backend/venv/lib
