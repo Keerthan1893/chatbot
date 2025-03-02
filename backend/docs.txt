@@ -1,0 +1,33 @@
+How to use Segment?
+1. Install Segment SDK in your application.
+2. Identify your users with the `identify` API.
+3. Track user actions with the `track` API.
+4. Integrate with your desired destinations.
+
+---
+
+How to connect mParticle?
+1. Set up an mParticle account.
+2. Install the mParticle SDK.
+3. Send your first event using `logEvent()`.
+4. Connect mParticle to third-party integrations.
+
+---
+
+How to enable Zeotap?
+1. Log in to your Zeotap dashboard.
+2. Navigate to the "Integrations" tab.
+3. Click "Enable" on your desired integration.
+4. Copy and use the API key for authentication.
+
+---
+
+How to use Lytics?
+1. Set up your Lytics account.
+2. Install the Lytics SDK.
+3. Track events using `track()` API.
+4. Enable Lytics integrations.
+
+---
+
+
